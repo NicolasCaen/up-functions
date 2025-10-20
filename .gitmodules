@@ -4,3 +4,6 @@
 [submodule "inc/up-module-cpt"]
 	path = inc/up-module-cpt
 	url = git@github.com:NicolasCaen/up-module-cpt.git
+[submodule "inc/up-module-gsap"]
+	path = inc/up-module-gsap
+	url = git@github.com:NicolasCaen/up-module-gsap.git
