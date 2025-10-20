@@ -13,3 +13,6 @@
 [submodule "inc/up-module-php"]
 	path = inc/up-module-php
 	url = git@github.com:NicolasCaen/up-module-php.git
+[submodule "inc/up-module-scss"]
+	path = inc/up-module-scss
+	url = git@github.com:NicolasCaen/up-module-scss.git
