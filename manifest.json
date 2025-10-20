@@ -1,0 +1,169 @@
+{
+  "patterns": [
+    {
+      "slug": "cpt-events",
+      "name": "Enregistre le custom post type « events » pour gérer les événements d'hôtel",
+      "description": "Enregistre le Custom Post Type « Events » pour gérer les événements d'hôtel.",
+      "version": "1.0.0",
+      "categories": [
+        "CPT"
+      ],
+      "files": {
+        "php": "inc/up-cpt/cpt-events.php"
+      },
+      "install": {
+        "php": "functions/inc/up-cpt"
+      }
+    },
+    {
+      "slug": "cpt-land",
+      "name": "Enregistre le custom post type « land » pour gérer les parcelles ou terrains",
+      "description": "Enregistre le Custom Post Type « Land » pour gérer les parcelles ou terrains.",
+      "version": "1.0.0",
+      "categories": [
+        "CPT"
+      ],
+      "files": {
+        "php": "inc/up-cpt/cpt-land.php"
+      },
+      "install": {
+        "php": "functions/inc/up-cpt"
+      }
+    },
+    {
+      "slug": "cpt-news",
+      "name": "Enregistre le custom post type « news » pour publier les actualités de l'hôtel",
+      "description": "Enregistre le Custom Post Type « News » pour publier les actualités de l'hôtel.",
+      "version": "1.0.0",
+      "categories": [
+        "CPT"
+      ],
+      "files": {
+        "php": "inc/up-cpt/cpt-news.php"
+      },
+      "install": {
+        "php": "functions/inc/up-cpt"
+      }
+    },
+    {
+      "slug": "cpt-offers",
+      "name": "Enregistre le custom post type « offers » pour gérer les offres spéciales",
+      "description": "Enregistre le Custom Post Type « Offers » pour gérer les offres spéciales.",
+      "version": "1.0.0",
+      "categories": [
+        "CPT"
+      ],
+      "files": {
+        "php": "inc/up-cpt/cpt-offers.php"
+      },
+      "install": {
+        "php": "functions/inc/up-cpt"
+      }
+    },
+    {
+      "slug": "cpt-portfolio",
+      "name": "Enregistre le custom post type « portfolio » pour présenter les projets ou réalisations",
+      "description": "Enregistre le Custom Post Type « Portfolio » pour présenter les projets ou réalisations.",
+      "version": "1.0.0",
+      "categories": [
+        "CPT"
+      ],
+      "files": {
+        "php": "inc/up-cpt/cpt-portfolio.php"
+      },
+      "install": {
+        "php": "functions/inc/up-cpt"
+      }
+    },
+    {
+      "slug": "cpt-property",
+      "name": "Enregistre le custom post type « property » pour gérer les propriétés immobilières",
+      "description": "Enregistre le Custom Post Type « Property » pour gérer les propriétés immobilières.",
+      "version": "1.0.0",
+      "categories": [
+        "CPT"
+      ],
+      "files": {
+        "php": "inc/up-cpt/cpt-property.php"
+      },
+      "install": {
+        "php": "functions/inc/up-cpt"
+      }
+    },
+    {
+      "slug": "cpt-reviews",
+      "name": "Enregistre le custom post type « reviews » pour gérer les avis clients",
+      "description": "Enregistre le Custom Post Type « Reviews » pour gérer les avis clients.",
+      "version": "1.0.0",
+      "categories": [
+        "CPT"
+      ],
+      "files": {
+        "php": "inc/up-cpt/cpt-reviews.php"
+      },
+      "install": {
+        "php": "functions/inc/up-cpt"
+      }
+    },
+    {
+      "slug": "cpt-rooms",
+      "name": "Enregistre le custom post type « rooms » pour gérer les chambres",
+      "description": "Enregistre le Custom Post Type « Rooms » pour gérer les chambres.",
+      "version": "1.0.0",
+      "categories": [
+        "CPT"
+      ],
+      "files": {
+        "php": "inc/up-cpt/cpt-rooms.php"
+      },
+      "install": {
+        "php": "functions/inc/up-cpt"
+      }
+    },
+    {
+      "slug": "cpt-testimonials",
+      "name": "Enregistre le custom post type « testimonials » pour gérer les témoignages",
+      "description": "Enregistre le Custom Post Type « Testimonials » pour gérer les témoignages.",
+      "version": "1.0.0",
+      "categories": [
+        "CPT"
+      ],
+      "files": {
+        "php": "inc/up-cpt/cpt-testimonials.php"
+      },
+      "install": {
+        "php": "functions/inc/up-cpt"
+      }
+    },
+    {
+      "slug": "gutenberg-restrictions",
+      "name": "Module gutenberg restrictions",
+      "description": "Module gutenberg restrictions",
+      "version": "1.0.0",
+      "categories": [
+        "Modules"
+      ],
+      "files": {
+        "php": "inc/gutenberg-restrictions/gutenberg-restrictions.php"
+      },
+      "install": {
+        "php": "functions/inc/gutenberg-restrictions"
+      }
+    },
+    {
+      "slug": "tax-rooms",
+      "name": "Taxonomies liées au custom post type « rooms »",
+      "description": "Taxonomies liées au Custom Post Type « Rooms ».",
+      "version": "1.0.0",
+      "categories": [
+        "Taxonomies"
+      ],
+      "files": {
+        "php": "inc/up-cpt/tax-rooms.php"
+      },
+      "install": {
+        "php": "functions/inc/up-cpt"
+      }
+    }
+  ]
+}
