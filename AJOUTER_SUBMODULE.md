@@ -10,7 +10,7 @@
 
 1. **[Ajouter le sous-module]**
    ```bash
-   git submodule add git@github.com:Utilisateur/mon-sous-module.git inc/mon-sous-module
+   git submodule add git@github.com:NicolasCaen/up-module-scss.git inc/up-module-scss
    ```
 
 2. **[Synchroniser la configuration]**
