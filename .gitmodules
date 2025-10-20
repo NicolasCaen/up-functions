@@ -7,3 +7,9 @@
 [submodule "inc/up-module-gsap"]
 	path = inc/up-module-gsap
 	url = git@github.com:NicolasCaen/up-module-gsap.git
+[submodule "inc/up-module-js"]
+	path = inc/up-module-js
+	url = git@github.com:NicolasCaen/up-module-js.git
+[submodule "inc/up-module-php"]
+	path = inc/up-module-php
+	url = git@github.com:NicolasCaen/up-module-php.git

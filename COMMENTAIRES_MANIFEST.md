@@ -75,6 +75,7 @@ Chaque ligne suit `Clé: valeur` (respecter la casse).
 - **[Alignement]** Garder le bloc au tout début du fichier pour faciliter le parsing.
 - **[Synchronisation]** Relancer `python3 build_manifest.py --output manifest.json` après chaque modification.
 - **[Versioning]** Incrémenter `Version` lors de changements majeurs pour informer l’installateur.
+- **[Sous-modules]** Consulter `AJOUTER_SUBMODULE.md` pour la procédure d’ajout/suppression de sous-modules.
 
 ## Générer le manifest
 
