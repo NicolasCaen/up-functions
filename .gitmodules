@@ -1,0 +1,6 @@
+[submodule "inc/gutenberg-restrictions"]
+	path = inc/gutenberg-restrictions
+	url = git@github.com:NicolasCaen/gutenberg-restrictions.git
+[submodule "inc/up-cpt"]
+	path = inc/up-cpt
+	url = git@github.com:NicolasCaen/up-cpt.git
